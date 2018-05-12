@@ -1,4 +1,4 @@
-import { rewrite } from '../../src/middleware/Rewrite.js';
+import { rewrite } from '../../../../../src/spa/src/middleware/Rewrite.js';
 
 let except = chai.expect;
 let Rewrite = rewrite({

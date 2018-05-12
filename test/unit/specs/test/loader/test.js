@@ -1,4 +1,4 @@
-import { ensure } from '../../src/umi/util/loader.js';
+import { ensure } from '../../../../../src/spa/src/umi/util/loader.js';
 
 let except = chai.expect;
 

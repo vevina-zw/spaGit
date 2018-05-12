@@ -1,4 +1,4 @@
-import { Monitor } from "../../src/disp/Monitor.js"
+import { Monitor } from "../../../../../src/spa/src/disp/Monitor.js"
 
 let except = chai.expect;
 

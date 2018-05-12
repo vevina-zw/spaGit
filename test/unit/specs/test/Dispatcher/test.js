@@ -1,5 +1,5 @@
-import { Dispatcher } from "../../src/disp/Dispatcher.js"
-import { MiddleWare } from "../../src/middleware/MiddleWare.js"
+import { Dispatcher } from "../../../../../src/spa/src/disp/Dispatcher.js"
+import { MiddleWare } from "../../../../../src/spa/src/middleware/MiddleWare.js"
 
 class Test extends MiddleWare {
     exec(context) {

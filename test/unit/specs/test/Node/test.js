@@ -1,4 +1,4 @@
-import { Node } from '../../src/umi/util/Node.js';
+import { Node } from '../../../../../src/umi/util/Node.js';
 
 let except = chai.expect;
 

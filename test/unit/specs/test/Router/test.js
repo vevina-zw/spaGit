@@ -1,5 +1,5 @@
-import { router } from '../../src/middleware/Router.js';
-import { Module } from "../../src/module/Module.js";
+import { router } from '../../../../../src/spa/src/middleware/Router.js';
+import { Module } from "../../../../../src/spa/src/module/Module.js";
 
 class Test extends Module {
     build(options) {

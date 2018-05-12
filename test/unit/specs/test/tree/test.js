@@ -1,4 +1,4 @@
-import { build, getNodeByPath, getCommonPath, getModuleNode } from '../../src/umi/util/tree.js';
+import { build, getNodeByPath, getCommonPath, getModuleNode } from '../../../../../src/spa/src/umi/util/tree.js';
 
 let except = chai.expect;
 
